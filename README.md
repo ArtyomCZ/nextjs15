@@ -10,6 +10,9 @@ This repository serves as a **template** for building modern web applications wi
 - **Database with Prisma and PostgreSQL**: ORM setup for efficient database management.
 - **TypeScript**: Strongly typed development for better code quality and maintainability.
 - **Shadcn/ui**: Pre-configured UI components styled with Tailwind CSS.
+- **Tailwind v4**: A utility-first CSS framework for rapidly building custom user interfaces.
+- **React icons**: Include popular icons in your React projects easily with react-icons.
+- **Nanoid**: A tiny (124 bytes), secure, URL-friendly, unique string ID generator for JavaScript
 
 ## 📂 Project Structure
 
@@ -91,8 +94,14 @@ Here are some resources to help you understand the technologies used:
 - [Resend Documentation](https://resend.com/docs)
 - [Zod Documentation](https://zod.dev/)
 - [Prisma Documentation](https://www.prisma.io/docs/)
-- [PostgreSQL Documentation](https://www.postgresql.org/docs/)
+- [React icons](https://react-icons.github.io/react-icons/)
+- [Nanoid](https://github.com/ai/nanoid)
 
 ## 🤝 Contributing
 
 If you'd like to contribute to this project, fork the repository, make your changes, and submit a pull request. Contributions are welcome!
+
+## ❤️ Partnership
+
+This project is proudly supported by [Denik.app](https://denik.app) – a modern trading journal and financial research tool.
+Denik.app helps traders and investors keep a clear trading journal, analyze their strategies, and improve results with the help of advanced AI features.
