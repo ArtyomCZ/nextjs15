@@ -10,6 +10,9 @@ This repository serves as a **template** for building modern web applications wi
 - **Database with Prisma and PostgreSQL**: ORM setup for efficient database management.
 - **TypeScript**: Strongly typed development for better code quality and maintainability.
 - **Shadcn/ui**: Pre-configured UI components styled with Tailwind CSS.
+- **Tailwind v4**: A utility-first CSS framework for rapidly building custom user interfaces.
+- **React icons**: Include popular icons in your React projects easily with react-icons.
+- **Nanoid**: A tiny (124 bytes), secure, URL-friendly, unique string ID generator for JavaScript
 
 ## 📂 Project Structure
 
