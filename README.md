@@ -94,8 +94,14 @@ Here are some resources to help you understand the technologies used:
 - [Resend Documentation](https://resend.com/docs)
 - [Zod Documentation](https://zod.dev/)
 - [Prisma Documentation](https://www.prisma.io/docs/)
-- [PostgreSQL Documentation](https://www.postgresql.org/docs/)
+- [React icons](https://react-icons.github.io/react-icons/)
+- [Nanoid](https://github.com/ai/nanoid)
 
 ## 🤝 Contributing
 
 If you'd like to contribute to this project, fork the repository, make your changes, and submit a pull request. Contributions are welcome!
+
+## ❤️ Partnership
+
+This project is proudly supported by [Denik.app](https://denik.app) – a modern trading journal and financial research tool.
+Denik.app helps traders and investors keep a clear trading journal, analyze their strategies, and improve results with the help of advanced AI features.
